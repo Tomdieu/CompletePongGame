@@ -1,0 +1,20 @@
+"""class Game(pygame.sprite.Sprite):
+    def __init__(self):
+        self.velocity=5
+        self.img=pygame.image.load('s.png').convert_alpha()
+        self.img_rect=self.img.get_rect()
+        self.img_rect.x=250-self.img.get_width()//2
+        self.img_rect.y=250-self.img.get_width()//2
+
+    def move_right(self):
+        if self.img_rect.x+self.img.get_width()>500:
+            self.img_rect.x=500-self.img.get_width()
+        else:
+            self.img_rect.x+=self.velocity
+    def move_left(self):
+        if self.img_rect.x<=0:
+            self.img_rect.x=0
+        else:
+            self.img_rect.x-=self.velocity
+    def press(self):
+        self.dic={}"""

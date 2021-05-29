@@ -1,0 +1,6 @@
+        cheats
+code              action
+
+ivan------------>The computer take control of the player
+
+stop------------>player plays manualy
