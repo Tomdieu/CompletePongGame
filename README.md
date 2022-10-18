@@ -1,6 +1,7 @@
 # CompletePongGame
 Made in python using pygame
 
+![logo](https://github.com/Tomdieu/CompletePongGame/blob/main/logo.png)
 
 ## How to run
 
